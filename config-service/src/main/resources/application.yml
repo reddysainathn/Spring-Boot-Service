@@ -6,4 +6,4 @@ spring:
     config:
       server:
         git:
-          uri: ${HOME}/Desktop/Spring-Boot/bootiful-microservices-config
+          uri: ${HOME}/bootiful-microservices-config
