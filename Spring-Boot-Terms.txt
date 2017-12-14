@@ -1,0 +1,8 @@
+Feign--Way of Doing Declarative Rest Clients  
+Zuul--For Proxy And Reverse Proxy
+Ribbon--Load Balancing
+Hystrix--Circuit Breaker
+Registry--Discover all Apps
+Config-Server--Config hosted at one place
+HATEOS--Hypermedia As The Engine Of Application State 
+Actuator--
